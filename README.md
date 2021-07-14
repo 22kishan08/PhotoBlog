@@ -1,4 +1,4 @@
-# Project-Onion
+# Photo Blog
 
 ## Features
 * Create Post -> Photo/Blog
